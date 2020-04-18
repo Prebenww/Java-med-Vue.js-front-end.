@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e7bc05e-73f4-4314-a39b-11c96144b715" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="UML Sequence" />
+        <option value="UML Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zw7b1kUHgEc0LiIK92mkFiE5IP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e7bc05e-73f4-4314-a39b-11c96144b715" name="Default Changelist" comment="" />
+      <created>1585738370412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585738370412</updated>
+      <workItem from="1585738377348" duration="1712000" />
+      <workItem from="1586110191557" duration="688000" />
+      <workItem from="1586110912911" duration="2675000" />
+      <workItem from="1587044298379" duration="1634000" />
+      <workItem from="1587051048216" duration="1258000" />
+      <workItem from="1587141828554" duration="7241000" />
+      <workItem from="1587231256139" duration="56000" />
+      <workItem from="1587231330227" duration="208000" />
+      <workItem from="1587231580109" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="92" key="#Project_Structure" timestamp="1587231353839">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="92" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1587231353839" />
+    <state x="980" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1586111601898">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="980" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1586111601898" />
+    <state x="487" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586112261958">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="487" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1586112261958" />
+    <state x="872" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1587231580094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="872" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587231580094" />
+    <state x="209" y="45" key="new project wizard" timestamp="1587142422879">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="45" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1587142422879" />
+  </component>
+</project>
